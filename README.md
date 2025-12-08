@@ -8,10 +8,11 @@ These projects were originally developed as part of the **Udacity Data Analyst N
 ---
 
 ## 📁 Repository Structure
-data/ # Contains all datasets
-<project>.ipynb # Jupyter Notebook for each dataset analysis
-<project>.html # Exported HTML report for each analysis
-README.md
+
+- data/ # Contains all datasets
+- <project>.ipynb # Jupyter Notebook for each dataset analysis
+- <project>.html # Exported HTML report for each analysis
+- README.md
 
 **Notes:**
 
