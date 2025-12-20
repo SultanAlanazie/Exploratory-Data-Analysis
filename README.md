@@ -90,7 +90,4 @@ Attendance is influenced by multiple factors; no single variable fully explains 
 - Collect additional variables to better model no-show behavior  
 - Apply **predictive modeling** to identify high-risk patients  
 
----
-
-## Repository Structure
 
